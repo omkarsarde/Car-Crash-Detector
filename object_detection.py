@@ -5,6 +5,7 @@ import sys
 """
 General object detection using RetinaNet using pretrained Object Detector
 reference : ImageAi opensource library
+Please download the resnet50_coco_best_v2.0.1.h5 weights to use the model
 """
 class object_detector:
     """
