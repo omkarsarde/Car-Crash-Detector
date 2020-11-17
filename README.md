@@ -5,4 +5,4 @@ The problem is solved in two parts. First is object detection and second is crea
 # Object Detection
 Object Detection is done using retinanet. 
 Sample output:
-![alt text](https://github.com/omkarsarde/Car_Crash-Detector/blob/main/objectDetectorOutput.jpg?raw=true)
+!(https://github.com/omkarsarde/Car-Crash-Detector/blob/main/objectDetectorOutput.jpg)
