@@ -13,16 +13,17 @@ Sample output of Object Detector:
 A custom CNN + HRNN (Hierarchical Recurrent Neural Network) model was trained on dataset created by By Fu-Hsiang Chan, Yu-Ting Chen, Yu Xiang, Min Sun.
 Reference to dataset:
 <br>
+## References
 @inproceedings{chan2016anticipating,
     title={Anticipating accidents in dashcam videos},
     author={Chan, Fu-Hsiang and Chen, Yu-Ting and Xiang, Yu and Sun, Min},
     booktitle={Asian Conference on Computer Vision},
     pages={136--153},
     year={2016},
-    organization={Springer}
-}
+    organization={Springer}}
 <br>
-# Authors
+
+## Authors
 Author: Omkar Sarde os4802@rit.edu / omkarsarde1995@gmail.com
 <br>
 Author: Sharwari Salunkhe ss3398@rit.edu / sharvari311095@gmail.com
