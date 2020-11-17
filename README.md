@@ -6,3 +6,5 @@ The problem is solved in two parts. First is object detection and second is crea
 Object Detection is done using retinanet. 
 Sample output:
 !(https://github.com/omkarsarde/Car-Crash-Detector/blob/main/objectDetectorOutput.jpg)
+![Screenshot](objectDetectorOutput.jpg)
+
